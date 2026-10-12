@@ -1,0 +1,24 @@
+﻿Missing:
+ trade_id        0
+timestamp       0
+symbol          0
+side           15
+price          25
+quantity       20
+bid_price_1     0
+bid_qty_1      30
+bid_price_2     0
+bid_qty_2       0
+bid_price_3     0
+bid_qty_3       0
+ask_price_1    20
+ask_qty_1       0
+ask_price_2     0
+ask_qty_2       0
+ask_price_3     0
+ask_qty_3       0
+dtype: int64
+
+Duplicate trade_id: 35
+
+Duplicated rows: 35
