@@ -1,0 +1,5 @@
+﻿--- EDA6 OUTPUT ---
+Total Trades: 1880
+Price Mean: 85006.06856382977
+Price Max: 6225050.0
+Price Min: 61954.1
