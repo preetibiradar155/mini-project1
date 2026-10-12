@@ -1,0 +1,40 @@
+﻿File loaded: results/trades_clean.csv
+   trade_id                         timestamp  ... ask_price_3 ask_qty_3
+0    101557  2026-10-01 09:21:03.172000+00:00  ...     62181.6     0.903
+1    100573  2026-10-01 09:07:37.614000+00:00  ...     62090.9     1.551
+2    101717  2026-10-01 09:23:29.337000+00:00  ...     62238.0     0.711
+3    100201  2026-10-01 09:02:35.129000+00:00  ...     61995.6     2.716
+4    101949  2026-10-01 09:26:32.789000+00:00  ...     62133.9     3.658
+
+[5 rows x 18 columns]
+
+Data Types:
+trade_id                     int64
+timestamp      datetime64[us, UTC]
+symbol                         str
+side                           str
+price                      float64
+quantity                   float64
+bid_price_1                float64
+bid_qty_1                  float64
+bid_price_2                float64
+bid_qty_2                  float64
+bid_price_3                float64
+bid_qty_3                  float64
+ask_price_1                float64
+ask_qty_1                  float64
+ask_price_2                float64
+ask_qty_2                  float64
+ask_price_3                float64
+ask_qty_3                  float64
+dtype: object
+
+Timestamp sample:
+0   2026-10-01 09:21:03.172000+00:00
+1   2026-10-01 09:07:37.614000+00:00
+2   2026-10-01 09:23:29.337000+00:00
+3   2026-10-01 09:02:35.129000+00:00
+4   2026-10-01 09:26:32.789000+00:00
+Name: timestamp, dtype: datetime64[us, UTC]
+
+Saved to results/trades_clean.csv
