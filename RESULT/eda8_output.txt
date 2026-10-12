@@ -1,0 +1,20 @@
+﻿--- EDA7 OUTPUT ---
+     timestamp    price
+1602       NaT  62164.6
+1658       NaT  62127.2
+1681       NaT  61997.5
+1692       NaT  62082.2
+1728       NaT  62235.7
+1775       NaT  62082.8
+1780       NaT  62004.2
+1794       NaT  62239.4
+1804       NaT  62153.5
+1861       NaT  62132.6
+
+Last 5 trades price change:
+1775   -152.9
+1780    -78.6
+1794    235.2
+1804    -85.9
+1861    -20.9
+Name: price, dtype: float64
